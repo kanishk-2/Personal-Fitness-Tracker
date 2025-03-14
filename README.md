@@ -46,6 +46,9 @@ To set up the project, follow these steps:
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request.
 
+## Output
+<img width="1264" alt="output" src="https://github.com/user-attachments/assets/55cfb6e3-5a2c-4784-98ea-3106b3a556d7" />
+
 ## License
 This project is licensed under the MIT License.
 
