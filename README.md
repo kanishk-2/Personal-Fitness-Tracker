@@ -1,7 +1,7 @@
 # Personal Fitness Tracker
 
 ## Overview
-The **Personal Fitness Tracker** is a machine learning-based web application designed to help users analyze and predict fitness-related metrics, such as calorie burn based on exercise details. The application uses **Streamlit** for an interactive interface and **scikit-learn** for model training and predictions.
+The Personal Fitness Tracker is a machine learning-based web application that helps users analyze fitness data and predict health metrics, such as calorie expenditure based on exercise details. It utilizes datasets like calories.csv and exercise.csv to train models using Linear Regression and Random Forest Regressor for accurate predictions. The project is built with Streamlit for an interactive interface and scikit-learn for machine learning, while Matplotlib, Seaborn, and Plotly enhance data visualization. The Jupyter Notebook (fitness_tracker.ipynb) enables interactive data analysis, and fitness_tracker.py handles preprocessing, model training, and evaluation. Designed to assist users in tracking and improving their fitness, this tool leverages machine learning for insightful health predictions.
 
 ## Features
 - 📊 **Data Visualization**: Uses `Matplotlib`, `Seaborn`, and `Plotly` to provide visual insights.
