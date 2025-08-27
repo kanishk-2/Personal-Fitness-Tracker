@@ -27,15 +27,21 @@ To set up the project, follow these steps:
    streamlit run app.py
 
 ## Project Structure
+
 📂 personal-fitness-tracker
-│-- 📄 app.py               # Streamlit app for fitness tracking
-│-- 📄 fitness_tracker.py   # Data processing and model training script
-│-- 📄 fitness_tracker.ipynb # Jupyter Notebook for interactive analysis
-│-- 📂 data
-│   │-- 📄 calories.csv      # Dataset with calorie expenditure data
-│   │-- 📄 exercise.csv      # Dataset with exercise details
-│-- 📄 requirements.txt     # List of dependencies
-│-- 📄 README.md            # Project documentation
+├── app.py                # Streamlit app for fitness tracking
+
+├── fitness_tracker.py    # Data processing and model training script
+
+├── fitness_tracker.ipynb # Jupyter Notebook for interactive analysis
+
+├── 📂 data
+│   ── calories.csv    # Dataset with calorie expenditure data
+│   ── exercise.csv    # Dataset with exercise details
+
+├── requirements.txt      # List of dependencies
+
+└── README.md             # Project documentation
 
 ## How It Works
 1. Load the Data: The app reads calories.csv and exercise.csv containing user activity records.
